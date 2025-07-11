@@ -99,8 +99,8 @@ npm install
 ### 3. Configurar Variables de Entorno
 Crear archivo `.env` con:
 ```
-EXPO_PUBLIC_SUPABASE_URL=https://rfrwbgbezeknwppruaud.supabase.co
-EXPO_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJmcndiZ2JlemVrbndwcHJ1YXVkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTIxODk1NTYsImV4cCI6MjA2Nzc2NTU1Nn0.aDYRNsJVqZfBuzkCWr-_qX8AsxDQZfpoZj5kIqhoyE4
+EXPO_PUBLIC_SUPABASE_URL=https://.supabase.co
+EXPO_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6qX8AsxDQZfpoZj5kIqhoyE4
 ```
 
 ### 4. Configurar Base de Datos
